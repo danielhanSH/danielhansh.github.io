@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Daniel Han</title>
+    <link>/sections/</link>
+    <description>Recent content in Sections on Daniel Han</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/sections/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/aboutme/</guid>
+      <description>I am a Senior Research Specialist at the Busara Center for Behavioral Economics, Nairobi, Kenya.
+Daniel is a Senior Research Specialist at the Busara Center for Behavioral Economics in Nairobi, managing Professor Johannes Haushofer (Stockholm University)&amp;rsquo;s academic projects in the fields of Behavioural and Development Economics. He has worked with researchers such as Edward Miguel (UC Berkeley), Dennis Egger (Oxford) and Toman Barsbai (Bristol). He was previously a Research Associate at INSEAD, assisting Professors Michael Freeman and Chun So Yeon in the Technology and Operations Management field of research.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/contact/</guid>
+      <description>Email: daniel.han@busara.global
+Phone: +254 795746099 Address:
+38 Apple Cross Road Busara Center for Behavioral Economics
+Nairobi, Kenya</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/personal/</guid>
+      <description>Website: I am grateful to Gautam Rao sharing the template for his website, which has been adapted for this website. Please check out his GitHub repository for the template.</description>
+    </item>
+    
+  </channel>
+</rss>
