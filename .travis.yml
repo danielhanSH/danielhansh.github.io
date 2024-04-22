@@ -1,5 +1,5 @@
 install:
-    - rm -rf public || exit 0
+    - rm -rf docs || exit 0
 
 script:
     - ./hugo_travis_ci
