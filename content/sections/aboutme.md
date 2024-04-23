@@ -4,4 +4,4 @@ I was previously a Research Associate at [INSEAD](https://www.insead.edu), assis
 
 I obtained my Master of Science degree in Econometrics and Mathematical Economics from the [London School of Economics and Political Science](https://www.lse.ac.uk) and a Bachelor of Science degree (Summa Cum Laude) in Economics from [Singapore Management University](https://www.smu.edu.sg).
 
-__[Curriculum Vitae](/pdf/Han Song Herng Daniel_CV.pdf)__ (Updated April 2024)
+__[Curriculum Vitae]("/pdf/Han Song Herng Daniel_CV.pdf")__ (Updated April 2024)
