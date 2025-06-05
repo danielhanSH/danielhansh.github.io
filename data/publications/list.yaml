@@ -1,7 +1,10 @@
 works:
 - title: "Brain Drain or Brain Gain? Effects of High-Skilled International Emigration on Origin Countries"
-  book: "Science (Conditionally Accepted)"
+  pdflink: "/pdf/Batista_et_al_Science_2025"
+  book: "Science 388 (6749), eadr8861 (2025)"
   coauthors: "Catia Batista, Johannes Haushofer, Gaurav Khanna, David McKenzie, Ahmed Mushfiq Mobarak, Caroline Theoharides and Dean Yang"
+  links:
+    - url: "/pdf/Batista_et_al_Science_2025.pdf"
 
 
 - title: "Forecasting GDP with Many Predictors in a Small Open Economy: Forecast or Information Pooling?"
