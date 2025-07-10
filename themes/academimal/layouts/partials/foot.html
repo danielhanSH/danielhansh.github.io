@@ -16,4 +16,19 @@
 <p class="p1"><span class="s1"></span><br></p>
 <p class="p2"><span class="s1">{{/* template "_internal/google_analytics_async.html" . */}}</span></p>
 </body>
+
+<script>
+  function toggle(pid) {
+    var abs = document.getElementById("pubabs_" + pid);
+    var link = document.getElementById("pubabslink_" + pid);
+    if (abs.style.display === "none") {
+      abs.style.display = "inline";
+      link.innerHTML = " (click to collapse)";
+    } else {
+      abs.style.display = "none";
+      link.innerHTML = " (click to expand)";
+    }
+  }
+  </script>
+  
 </html>
