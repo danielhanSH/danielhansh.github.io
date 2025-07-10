@@ -4,12 +4,11 @@ works:
   book: "Science 388 (6749), eadr8861 (2025)"
   coauthors: "Catia Batista, Johannes Haushofer, Gaurav Khanna, David McKenzie, Ahmed Mushfiq Mobarak, Caroline Theoharides and Dean Yang"
   links:
-    - url: "/pdf/Batista_et_al_Science_2025.pdf"
+    - url: "https://voxdev.org/topic/migration-urbanisation/why-brain-drain-incomplete-story-migration"
+      text: "VoxDevTalk"
 
 
 - title: "Forecasting GDP with Many Predictors in a Small Open Economy: Forecast or Information Pooling?"
   pdflink: "/pdf/CHF_Forecasting_EmpE_2023.pdf"
   book: "Empirical Economics 65(2), 805-829 (2023)"
   coauthors: "Chow Hwee Kwan and Yijie Fei"
-  links:
-    - url: "/pdf/CHF_Forecasting_EmpE_2023.pdf"
