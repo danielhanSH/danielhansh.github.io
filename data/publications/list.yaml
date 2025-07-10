@@ -3,6 +3,8 @@ works:
   pdflink: "/pdf/Batista_et_al_Science_2025.pdf"
   book: "Science 388 (6749), eadr8861 (2025)"
   coauthors: "Catia Batista, Johannes Haushofer, Gaurav Khanna, David McKenzie, Ahmed Mushfiq Mobarak, Caroline Theoharides and Dean Yang"
+  abstract: >
+    How does emigration of highly educated citizens of low-income countries to high-income countries affect the economies of the origin countries? The direct effect is “brain drain”—a decrease in the country’s human capital stock. However, there may also be indirect “brain gain” effects. This review summarizes evidence that uses causal inference methods to reveal mechanisms that may lead to brain drain, gain, or circulation. Collectively, the weight of the evidence suggests that migration opportunities often increase human capital stock in origin countries and produce downstream beneficial effects through remittances; foreign direct investment and trade linkages; transfers of knowledge, technology and norms; and return migration. We discuss conditions under which benefits from skilled migration may outweigh costs and also describe potential research paths to inform policy.
   links:
     - url: "https://voxdev.org/topic/migration-urbanisation/why-brain-drain-incomplete-story-migration"
       text: "VoxDevTalk"
@@ -11,3 +13,5 @@ works:
   pdflink: "/pdf/CHF_Forecasting_EmpE_2023.pdf"
   book: "Empirical Economics 65(2), 805-829 (2023)"
   coauthors: "Chow Hwee Kwan and Yijie Fei"
+  abstract: >
+    This study compares two distinct approaches, pooling forecasts from single indicator MIDAS models versus pooling information from indicators into factor MIDAS models, for short-term Singapore GDP growth forecasting with a large ragged-edge mixed frequency dataset. We consider various popular weighting schemes in the literature when conducting forecast pooling. As for factor extraction, both the conventional dynamic factor model and the three-pass regression filter approach are considered. We investigate the relative predictive performance of all methods in a pseudo-out-of-sample forecasting exercise from 2007Q4 to 2020Q3. In the stable growth non-crisis period, no substantial difference in predictive performance is found across forecast models. In comparison, we find information pooling tends to dominate both the quarterly autoregressive benchmark model and the forecast pooling strategy particularly during the Global Financial Crisis.
